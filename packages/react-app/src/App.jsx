@@ -171,7 +171,7 @@ function App(props) {
     mainnetContracts,
     "DAI",
     "balanceOf",
-    ["0x34aA3F359A9D614239015126635CE7732c18fDF3"],
+    ["0xD1945732FB473fAce99c74C96a6Ceabac3A1BF5A"],
     mainnetProviderPollingTime,
   );
 
